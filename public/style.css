@@ -1,0 +1,15 @@
+body {
+    background-color: lemonchiffon;
+}
+ul {
+    font-size: 2rem;
+    font-weight: bolder;
+}
+
+li {
+    color: green;
+    font-size: 1rem;
+    text-decoration: underline;
+    font-weight: 400;
+    margin-left: 1rem;
+}

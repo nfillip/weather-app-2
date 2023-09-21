@@ -1,0 +1,22 @@
+[
+    {
+        "name": "soccer",
+        "category": "sport"
+         
+    },
+    {
+        "name": "engineer",
+        "category": "occupation"
+         
+    },
+    {
+        "name": "developer",
+        "category": "occupation"
+         
+    },
+    {
+        "name": "vball",
+        "category": "sport"
+         
+    }
+]
